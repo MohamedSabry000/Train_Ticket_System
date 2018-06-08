@@ -6,6 +6,7 @@ the first frame of the project is frame0.java
 
 ## main goals
 *in this program we want to facilitate the process of booking tickets and provide the traveler time and effort it.
+
 *This program enable the employees to reserve tickets for the passenger, printing and recording passenger data in the station data base at easily instead of registering in paper ledgers and large time of  writing and passenger delay.
 
 ## more Info
